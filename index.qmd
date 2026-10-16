@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  id: about-block 
+  image: "img/headshot.jpg"
+  #links:
+  #  - icon: mortarboard-fill
+  #    href: https://scholar.google.com/citations?user=pXhXTJsAAAAJ&hl=en
+  #  - icon: linkedin
+  #    href: https://www.linkedin.com/in/lizzie-martin-9b8998204/
+  #  - icon: journal-bookmark-fill
+  #    href: https://orcid.org/0000-0002-3465-0621
+  #  - icon: envelope
+  #    aria-label: email
+  #    href: "mailto:lizzie.martin@asc.upenn.edu" 
+---
+
+::: {#about-block}
+:::
+
+# Lizzie Martin
+
+As a joint PhD candidate in the Department of Political Science and Annenberg School for Communication at the University of Pennsylvania, I study public policy as a question of communication, with a focus on the American bureaucracy and its relationship to public opinion. You can visit [my UPenn page here](https://www.asc.upenn.edu/people/graduate-student/lizzie-martin). I expect to receive my PhD in December 2026. 
+
+I also hold an MA in statistics from the Wharton School at the University of Pennsylvania, an MPA in public policy with a certificate in Global Health and Health Policy from the Princeton University School for Public and International Affairs, and an AB in public policy and creative writing from Princeton University. Through the American Political Science Association, I have been a Public Scholarship Fellow and an Institute for Civically Engaged Research Fellow.
+
+Professionally, I have spent seven years in the U.S. federal government, primarily working on program and policy evaluation as a social scientist in the General Services Administration Office of Evaluation Sciences. I have also been a Presidential Management Fellow at the CDC and a Scholars in the Nation's Service Initiative Fellow at the Department of State.
